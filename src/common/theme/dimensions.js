@@ -1,0 +1,16 @@
+export default {
+  sidebarWidth: '48%',
+  sidebarWidthTablet: '52px',
+  drawerWidthDesktop: '430px',
+  sideDrawerWidthDesktop: '250px',
+  drawerWidthTablet: '320px',
+  drawerHeightPhone: '250px',
+  filterFormWidth: '160px',
+  eventsDrawerWidth: '320px',
+  bottomBarHeight: 56,
+  popupMapOffset: 300,
+  popupMaxWidth: 388,
+  popupMaxWidthMobile: 288,
+  popupImageHeight: 144,
+  cardContentMaxHeight: '40vh',
+};
